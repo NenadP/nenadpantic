@@ -70,4 +70,14 @@ disqus_shortname: nenadp
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
+deploy:
+  type: ftpsync
+  host: ftp.nenadpantic.com
+  user: nenadpantic
+  pass: password
+  remote: /
+  port:  21
+  connections: 1
+  verbose: true
+
 
