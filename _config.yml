@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Nenad's Dev Blog
-subtitle: Frontent development and other stuff programming
-description: Blog about programming
+title: Nenad's Dev Lab
+subtitle: Programming Stuff
+description: Blog about JavaScript, also discussing frameworks like AngularJS. UX/UI opinions, with fresh CSS and HTML. Retro programming - Z80 (ZX Sinclair). IoT - Arduino.
 author: Nenad Pantic
 language: en
 timezone: Europe/Dublin
@@ -64,6 +64,9 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: light
+
+#comments
+disqus_shortname: nenadp
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

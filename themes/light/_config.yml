@@ -9,7 +9,7 @@ widgets:
 excerpt_link: Read More
 
 twitter:
-  username: @Nennad
+  username: Nennad
   show_replies: true
   tweet_count: 5
 
@@ -19,9 +19,7 @@ addthis:
 
 fancybox: true
 
-google_analytics:
+google_analytics: "UA-51730089-1"
 rss:
 
-comment_provider: disqus
-disqus_shortname: nenad_pantic
 
