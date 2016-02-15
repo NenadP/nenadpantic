@@ -67,13 +67,4 @@ theme: light
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type: rsync
-  host: 78.47.52.133
-  user: root
-  root: /var/www/nenadpantic/
-  port: 22
-  delete: false
-  verbose: true
-  ignore_errors: false
 
