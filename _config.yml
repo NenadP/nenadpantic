@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
+title: Nenad's Dev Blog
+subtitle: Frontent development and other stuff programming
+description: Blog about programming
 author: Nenad Pantic
-language:
-timezone:
+language: en
+timezone: Europe/Dublin
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://www.nenadpantic.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -63,9 +63,17 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: light
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: rsync
+  host: 78.47.52.133
+  user: root
+  root: /var/www/nenadpantic/
+  port: 22
+  delete: false
+  verbose: true
+  ignore_errors: false
+
