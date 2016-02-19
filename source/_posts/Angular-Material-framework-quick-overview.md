@@ -4,7 +4,7 @@ date: 2016-02-18 23:45:53
 tags: ["JavaScript", "AngularJS"]
 ---
 
-[Angular Material][1], at the time of writing, is at 1.0.5, and in pretty stable shape. It's official angular implementation of the [Google Material design][2]. Google own framework - abstract of JavaScript implementation, is **Polymer** - I did a bit of a digging and here's how they implement**** [components][3]. There are some other implementations - like [Materialize][4] - also standalone framework, or [MaterialUI][5] - tailored for React framework.
+[Angular Material][1], at the time of writing, is at 1.0.5, and in pretty stable shape. It's official angular implementation of the [Google Material design][2]. Google's own framework (not middle man JavaScript framework layer implementation, but pure library), is **Polymer** - I did a bit of a digging and here's how they implement [components][3]. There are some other implementations - like [Materialize][4] - also standalone framework, or [MaterialUI][5] - tailored for **React** framework.
 
 Good thing about **Google Material** in general is the huge [Book of Standards][2] that the Google design team wrote, specifying in detail how these components are to be used, and why it's good for UX that way. That could help a lot, embracing, what I suspect is, enormous work done by Google team.
 
