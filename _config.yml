@@ -71,13 +71,13 @@ disqus_shortname: nenadp
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ftpsync
-  host: ftp.nenadpantic.com
-  user: nenadpantic
-  pass: password
-  remote: /
-  port:  21
-  connections: 1
+  type: rsync
+  host: 94.130.229.32
+  user: nenad
+  root: /var/www/nenadpantic
+  port: 22
+  delete: true
   verbose: true
+  ignore_errors: false
 
 
