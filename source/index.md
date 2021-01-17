@@ -4,7 +4,7 @@ comments: false
 title: About me
 date: 2015-06-14 12:39:52
 ---
-I am full-stack developer interested in full application lifecycle.
+I am full-stack developer interested in full application lifecycle. Living in lovely Kilcoole, Ireland.
 
 At the moment I work with **Java / Spring** based backend technologies and **Typescript / Angular** front-end.
 
@@ -13,20 +13,21 @@ At the moment I work with **Java / Spring** based backend technologies and **Typ
 
 - **Languages**: Java, Javascript, Typescript, Python, Php, HTML, CSS/SCSS, Ruby
 - **Frameworks / Engines**: Spring Boot, Angular/AngularJS, Ruby on rails, NodeJs
-- **Operating Systems**: Linux, Windows
-- **SQL**: Postgresql, Mysql, Sqlite, h2
+- **SQL**: Postgresql, Mysql, Sqlite, H2
 - **NoSQL**: MongoDb
-- **Cloud**: PCF
+- **Operating Systems**: Linux, Windows
+- **Cloud**: Kubernetes, PCF, IBM Cloud
 - **Messaging**: RabbitMQ
-- **Build/CI**: Jenkins, Gradle, Webpack, Gulp
+- **Build/CI**: Jenkins, Gradle, Maven, Webpack, Gulp
 - **Tests**: Junit, Mockito, Karma, Mocha/Chai
 - **Source control**: GitHub (Git Flow), BitBucket
 - **IDE**: Intellij, Webstorm
 - **Other**: Linux dedicated server administration, Logging (ELK)
 - **Task Management**: Jira, Confluence
+- **8-bit**: ZX Spectrum, Assembler, Basic
 
 ### Interests
-Art, Gardening, IoT, Social Media, Computer gaming
+Art, Gardening, Vintage computers, Social Media, Computer gaming
 
 ### Social Profiles:
 
